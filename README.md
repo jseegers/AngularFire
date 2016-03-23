@@ -1,3 +1,5 @@
+go to https://shining-heat-5635.firebaseapp.com for live version
+
 # angularfire-slack
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
